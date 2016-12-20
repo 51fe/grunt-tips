@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bd {
+  width: 100%;
+  height: 1000px;
+  overflow: hidden;
+  background: #fff url('../img/bg.jpg') 0 0 no-repeat;
+}

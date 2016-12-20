@@ -1,0 +1,4 @@
+1. npm install -g grunt-cli 使用管理员权限安装grunt-cli
+2. cd workspace/project 切换到当前工作目录
+3. workspace/project > npm install 安装grunt运行所需要的插件
+4. workspace/project > grunt [--gruntfile *.js] [task(s):target] 运行grunt命令，[]中的参数可选。
